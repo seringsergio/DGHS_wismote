@@ -148,3 +148,4 @@ void fill_data_collection(struct data_collection_msg *data_coll_msg ,int light2,
     linkaddr_copy(&data_coll_msg->source,source);
 
 }
+//git
